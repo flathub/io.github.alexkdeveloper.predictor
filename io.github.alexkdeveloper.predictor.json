@@ -30,7 +30,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/alexkdeveloper/predictor.git",
-                    "tag" : "1.0.3"
+                    "commit" : "941e56fe0ce5b87bc7f0eeff8e410f65404440c9"
                 }
             ]
         }
